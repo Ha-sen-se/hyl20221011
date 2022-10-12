@@ -13,7 +13,7 @@
 </head>
 <body>
 <div class="container pt-3">
-Git Study index
+Git Study index 안녕 안녕!
 </div>
 </body>
 </html>
